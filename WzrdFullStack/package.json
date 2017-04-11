@@ -1,0 +1,9 @@
+{
+  "name": "wzrd-full-stack",
+  "version": "0.0.0",
+  "description": "WzrdFullStack",
+  "main": "server.js",
+  "author": {
+    "name": "maxim"
+  }
+}
